@@ -13,7 +13,11 @@ Run it using "java Magnifractal".
 Controls are as follows:
 
 Mouse wheel: zoom in/out
+
 'r': increase resolution (wraps around)
+
 'u': set to min resolution (good for faster zooming)
+
 't': set to max resolution (use for stunning images)
+
 Arrow keys: panning (NOT IMPLEMENTED YET)
